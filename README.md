@@ -5,7 +5,7 @@
    - Выявил семестр с самой низкой завершенностью курсов и самыми долгими средними сроками сдачи курсов.
    - Построил адаптированные RFM-кластеры студентов.
 
-Стек: pandas, seaborn, matplotlib.
+*Стек: pandas, seaborn, matplotlib.*
 
      
 ## :dizzy: [2. Анализ итогов A/B тестирования.](https://github.com/TagSunshine/karpov.courses-projects/blob/e072cb0e712547a2dd5cf012e8ebcdc0584a7b19/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%20%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%20%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%B0.ipynb) :dizzy: 
@@ -18,5 +18,5 @@
    - Написал функцию которая автоматически подгружает информацию из дополнительного файла и пересчитывает метрики.
    - Написал функцию которая строит графики по полученным метрикам.
 
-Стек: pandas, plotly.express, scipy.stats, pandahouse, seaborn, matplotlib.
+*Стек: pandas, plotly.express, scipy.stats, pandahouse, seaborn, matplotlib.*
    
