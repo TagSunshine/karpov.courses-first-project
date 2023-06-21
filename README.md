@@ -1,4 +1,4 @@
-## 1. [Анализ успеваемости учеников.].(https://github.com/TagSunshine/karpov.courses-projects/tree/66101c1d52f6b19951f7372571d7151ff34c2bf7/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%83%D1%81%D0%BF%D0%B5%D0%B2%D0%B0%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2.).
+## 1. [Анализ успеваемости учеников.](https://github.com/TagSunshine/karpov.courses-projects/tree/66101c1d52f6b19951f7372571d7151ff34c2bf7/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%83%D1%81%D0%BF%D0%B5%D0%B2%D0%B0%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2.).
 ###   Анализ завершенных уроков на обучающей платформе.  
    Решеные задачи:  
    - Проанализировал завершаемость курсов, уровни экзаменов, предметы.
